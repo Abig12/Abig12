@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Full-Stack Developer<br>🚀 Skills: Angular, React, Node.js, MongoDB, MySQL<br>📱 Mobile Development: Android Studio, Flutter<br>💻 Programming Languages: Java, GDZ (J-J-E), and more<br>📊 Current Focus: Data Science (Master's degree in progress)<br><br>🌱 Always learning and exploring new technologies. Passionate about turning ideas into reality through code.
+👨‍💻 Full-Stack Developer<br>🚀 Skills: Angular, React, Node.js, MongoDB, MySQL<br>📱 Mobile Development: Android Studio, Flutter<br> 📊 Current Focus: Data Science (Master's degree in progress)<br><br>🌱 Always learning and exploring new technologies. Passionate about turning ideas into reality through code.
 
 
 ## 🌐 Socials:
